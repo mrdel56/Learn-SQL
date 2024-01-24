@@ -1,0 +1,3 @@
+SELECT *
+From TeachersTable
+where 
